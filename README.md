@@ -5,13 +5,14 @@ Automated Ratio Calculator (ARC) is a plugin for Arelle that provides enhanced t
 
 ## Description
 
-This plugin extends Arelle's functionality by automatically detecting tables in financial statements and calculating important financial ratios. It specializes in processing both German accounting standards and IFRS (International Financial Reporting Standards) filings.
+This plugin extends Arelle's functionality by automatically detecting financial tables in filings and calculating financial ratios.
 
 ## Features
 
 - Automated detection and extraction of tables from financial filings
-- Calculation of standard financial ratios
-- Support for both German accounting standards and IFRS
+- Calculation of financial ratios and output to summary excel file
+- Support for German filings
+- Support for IFRS and US-GAAP accounting standards
 - Seamless integration with Arelle
 
 ## Installation
