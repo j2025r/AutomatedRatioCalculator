@@ -1,1 +1,15 @@
-
+{
+    "excel_export": {
+        "local_files": {
+            "mode": "central_folder",
+            "central_folder": "C:\\temp\\ARCoutput"
+        },
+        "online_files": {
+            "mode": "central_folder",
+            "central_folder": "C:\\temp\\ARCoutput"
+        }
+    },
+    "logging": {
+        "enabled": false
+    }
+}
