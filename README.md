@@ -1,4 +1,4 @@
-# AutomatedRatioCalculator
+# Automated Ratio Calculator (ARC)
 An Arelle Plugin for Automated Ratio Calculation
 
 Automated Ratio Calculator (ARC) is a plugin for Arelle that provides enhanced table detection and automated financial ratio calculation for German and IFRS filings.
